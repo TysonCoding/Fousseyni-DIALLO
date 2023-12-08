@@ -1,0 +1,14 @@
+{
+  "id":"acode.plugin.space",
+  "name":"Space Font (Github)",
+  "main":"dist/main.js",
+  "version":"1.0.0",
+  "readme":"readme.md",
+  "minVersionCode": 260,
+  "icon":"icon.png",
+  "files":[],
+  "author": {
+    "name":"Fousseyni DIALLO",
+    "email":"tysoncoding2@gmail.com",
+    "github":"TysonCoding"
+  }}￼Enter
